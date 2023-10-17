@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practica-examen</string>
+    <string name="lblNom">Nombre del Jugador</string>
+    <string name="lblapuesta">Fondo de Apuestas</string>
+    <string name="btnAcep">Aceptar</string>
+    <string name="gameTitle">Juego de dados</string>
+    <string name="infoPlayer">Datos del jugador</string>
+    <string name="lblFecN">FechaNacimiento</string>
+</resources>
